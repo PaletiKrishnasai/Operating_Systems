@@ -1,0 +1,10 @@
+Dear PALETI KRISHNASAI,
+Question: Develop a Multiprocessing Version of Radix Sort algorithm and 
+compare it with the performance (execution time) of bubble and insertion 
+sort algorithms. The demonstration should display the passes of the 
+respective sorting strategies. The comparison is against the 
+Multiprocessing Radix sort with sequential versions of Bubble and Insertion 
+Sort Algorithm. Ensure that the testing explores large sized arrays, random 
+distribution of elements. As an addon it would be preferred to have a data 
+creator code which initializes an array of user required size randomly 
+given some boundary conditions.
